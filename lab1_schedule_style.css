@@ -1,0 +1,20 @@
+caption{
+	font-size: x-large;
+}
+
+td{
+	font-weight: bold;
+	text-align: center;
+}
+
+th{
+	font-weight: bold;
+	text-align: center;
+}
+
+a{
+	color: blue;
+	text-decoration: underline;
+	font-family: serif;
+	font-size: medium;	
+}
